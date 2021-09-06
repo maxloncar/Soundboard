@@ -1,2 +1,2 @@
-# RMA-LV5 soundboard
-Soundboard app - Zadatak 1
+# Soundboard - Kotlin App
+Soundboard Kotlin application created for Mobile Development assignment (RMA-LV5)
